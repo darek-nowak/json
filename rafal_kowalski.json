@@ -1,5 +1,5 @@
 {
-	name: "Rafal Kowalski"
-	nationality: "Polish"
-	short: "Android developer experience in working in multinational teams"
+	"name": "Rafal Kowalski"
+	"nationality": "Polish"
+	"description": "Android developer experience in working in multinational teams"
 }	
