@@ -1,6 +1,28 @@
 {
-	"name": "Rafal Kowalski",
-	"nationality": "Polish",
-	"description": "Android developer experience in working in multinational teams",
-	"experience": []
+	"applicant": "Rafal Kowalski",
+	"currentRole": "Senior Android Developer",
+	"description": "Android developer experienced in RxJava programming in fintech sector",
+	"experience": [
+      {
+       "startDate": "08/2016",
+       "endDate": "",
+       "company": "Facebook",
+       "role": "Sr Android Developer",
+       "responsibilities": [
+              "Designing Custom Views",
+              "Grooming Planning tasks",
+              "Application development" ]
+       },
+       {
+        "startDate": "01/2012",
+        "endDate": "07/2016",
+        "company": "Motorola",
+        "role": "Android Developer",
+        "responsibilities": [
+              "Writing Unit tests",
+              "Pair programming code",
+              "Espresso UI tests coding",
+              "Writing Unit tests" ]
+       }       
+      ]
 }	
