@@ -1,0 +1,50 @@
+{
+	"applicant": "Dariusz Nowak",
+	"currentRole": "Senior Android Developer",
+	"description": "Android developer experienced in code design and code programming with RxJava in fintech sector",
+	"experience": [
+      {
+       "startDate": "08/2016",
+       "endDate": "",
+       "company": "IG, Kraków",
+       "role": "Sr Android Developer",
+       "responsibilities": [
+              "Rewriting app features from java to kotlin",  
+              "Designing Custom Views",
+              "Grooming Planning tasks",
+              "Application development",
+              "Working with RESTful api, Retrofit, okHttp, Jackson",
+              "Gathering requirements, prototyping and planning tasks",
+              "Payment app section development: Card, Bank, PayPal payments flows",
+              "Customer onboarding – ekyc: integrating 3rd party lib, for quick customer verifications",
+              "Improving update rate by adding In-app updates Google PlayCore lib",
+              "Tutoring less experienced stuff members" ]
+       },
+       {
+        "startDate": "01/2012",
+        "endDate": "07/2016",
+        "company": "Motorola Solutions, Kraków",
+        "role": "Android Developer",
+        "responsibilities": [
+              "Writing WebSocket based application",
+              "Multiprocess application for location and network services on Android",
+              "Writing Public Safety Quick Action application",
+              "Pair programming code",
+              "Espresso UI tests coding",
+              "Writing Unit tests",
+              "Continuous Integration with Jenkins, Unit tests/code coverage - one click build",
+              "Porting C++ windows library to android through NDK and JNI"]
+       },
+       {
+        "startDate": "01/2001",
+        "endDate": "01/2012",
+        "company": "Motorola, Kraków",
+        "role": "Software Developer",
+        "responsibilities": [
+              "Gather requirements, design test strategy",
+              "Pair programming code",
+              "Espresso UI tests coding",
+              "Giving Perl lessons to other workers" ]
+       }       
+      ]
+}
