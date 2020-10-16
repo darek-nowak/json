@@ -1,0 +1,28 @@
+{
+	"applicant": "Jugo Ramirez",
+	"currentRole": "Web Developer",
+	"description": "Web Applications Developer",
+	"experience": [
+      {
+       "startDate": "02/2015",
+       "endDate": "",
+       "company": "HSBC",
+       "role": "Java Developer",
+       "responsibilities": [
+              "Data base population",
+              "Creating Services, Controllers for Web Services",
+              "Tutoring less experience members of a team" ]
+       },
+       {
+        "startDate": "01/2012",
+        "endDate": "07/2015",
+        "company": "LiveScore",
+        "role": "Java Script developer",
+        "responsibilities": [
+              "Responsible for rendering data on a web page",
+              "HTML/CSS content rendering",
+              "Search engine optimization",
+              "Fixing bugs" ]
+       }       
+      ]
+}	
